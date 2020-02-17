@@ -6,6 +6,8 @@ Originally based upon `dnnl::impl::bfloat16_t` from the [Deep Neural Network Lib
 * https://github.com/intel/mkl-dnn/blob/v1.2/src/cpu/bfloat16.cpp
 * https://github.com/intel/mkl-dnn/blob/v1.2/src/common/bfloat16.hpp
 
+### Note: This repository is no longer maintained at github.com/N-Dekker. New location: https://github.com/biovault/biovault_bfloat16
+
 ## References:
 
 * Intel, [BFLOAT16 – Hardware Numerics Definition", White Paper, November 2018, Revision 1.0 Document Number: 338302-001US](https://software.intel.com/sites/default/files/managed/40/8b/bf16-hardware-numerics-definition-white-paper.pdf)
